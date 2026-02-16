@@ -21,3 +21,9 @@ Solução automatizada em Bash Script para backup incremental e compactado, impl
 2. Ajuste as variáveis de caminho no script `backup_automatico.sh`.
 3. Adicione ao Crontab (`crontab -e`):
    `15 03 * * * /bin/bash /caminho/do/script.sh`
+
+## 📸 Demonstração Visual
+
+As evidências de execução, logs e validação do sistema de retenção podem ser encontradas na pasta de documentação do projeto:
+
+📂 [Acessar evidências e prints (Pasta /docs)](./docs/)
